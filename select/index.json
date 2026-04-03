@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "頽れて。 / 重音テトSV (Everything will be broken. / Kasane Teto SV)",
+  "base_artist": "ミ瑞",
+  "createdAt": "2026-04-03T06:10:37.445714Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "頽れて。",
+      "artist": "ミ瑞",
+      "has_synced": false,
+      "path": "select/pl_01_頽れて。_ミ瑞.txt"
+    }
+  ]
+}
